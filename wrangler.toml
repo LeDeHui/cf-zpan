@@ -22,8 +22,8 @@ run_worker_first = [
 
 [[d1_databases]]
 binding = "DB"
-database_name = "zpan-public-1"
-database_id = "8396bc2ab7a04be5a7e3009473fff300"
+database_name = "zpan-public-d1"
+database_id = "fd885dee-e1c6-4890-a625-705211d836b4"
 migrations_dir = "./migrations"
 
 [[kv_namespaces]]
